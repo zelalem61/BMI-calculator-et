@@ -1,0 +1,225 @@
+{
+  "@@last_modified": "2020-07-28T11:17:31.076838",
+  "title": "Shallaggii BMI",
+  "@title": {
+    "description": "Title for the app",
+    "type": "text",
+    "placeholders": {}
+  },
+  "health": "Kit Fayyaa",
+  "@title": {
+    "description": "Title for the app",
+    "type": "text",
+    "placeholders": {}
+  },
+  "gender": "KOORNIYAA",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "male": "Dhiira",
+  "@male": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "female": "Dhalaa",
+  "@female": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "height": "HOJJAA",
+  "@height": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "weight": "ULFAATINA",
+  "@weight": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeLanguage": "Afaan Jijjiirraa",
+  "@changeLanguage": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "english": "Afaan Ingilizii",
+  "@english": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "tgrigna": "Afaan Tigrigna",
+  "@tgrigna": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "amharic": "Afaan Amaaraa",
+  "@amharic": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "afanOromo": "Afan oromoo",
+  "@afanOromo": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "bmiInfoFirst": "Body mass index ykn BMI dheerina keetif ulfaatina fayya qabeessa ta’e keessa jiraachuu fi dhiisuu kee murteessuuf kan gargaarudha.",
+  "@bmiInfoFirst": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "bmiInfoSecond": "\n* Shallaggiin kun dubartoota ulfaa ykn daa'immaniif fayyadamuu hin qabu.",
+  "@bmiInfoSecond": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourBmi": "BMI KEE",
+  "@yourBmi": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "theBmiChart": "Chaartii BMI",
+  "@theBmiChart": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "close": "Cufuu",
+  "@close": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "bmiInterpretationOverweight": "Ulfaatina qaamaa idilee caalaa olka'aa qabda. Sochii qaamaa dabalataa gochuuf yaali.",
+  "@bmiInterpretationOverweight": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "bmiInterpretationNormal": "Ulfaatina qaamaa idilee qabda. Hojii guddaa!",
+  "@bmiInterpretationNormal": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "bmiInterpretationUnderweight": "Ulfaatina qaamaa idilee caalaa gadi aanaa qabda. Xiqqoo dabalataan nyaachuu dandeessu.",
+  "@bmiInterpretationUnderweight": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+   "recommendationDiet": "Nyaata Gorsa",
+  "@close": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "recommendationExe": "Shaakala Gorsaa",
+  "@close": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "chest": "laphee",
+  "@close": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "abs": "ABs",
+  "@close": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "biceps": "Biceps jedhamuun beekama",
+  "@close": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "triceps": "Triceps jedhamu",
+  "@close": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "salmon": "Akaakuu qurxummii",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "kale": "Kalee",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "quinoa": "Quinoa jedhamuun beekama",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "burger": "Burger",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "salad": "Salaada",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "chicken": "Harma Chicken",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sweet": "Boqqolloo Mi'aawaa",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },  
+  "fish": "Fish",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "vegtable": "Vegetable",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "grain": "Grain",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "meet": "Meet",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  }
+}

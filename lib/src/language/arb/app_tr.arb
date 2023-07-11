@@ -1,0 +1,226 @@
+{
+  "@@last_modified": "2020-07-28T11:17:31.076838",
+  "title": "BMI ካልኩሌተር",
+  "@title": {
+    "description": "Title for the app",
+    "type": "text",
+    "placeholders": {}
+  },
+  "health": "ናይ ጥዕና ዕጥቂ",
+  "@title": {
+    "description": "Title for the app",
+    "type": "text",
+    "placeholders": {}
+  },
+  "gender": "ፆታ",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "male": "ተባዕታይ",
+  "@male": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "female": "ኣንስተይቲ",
+  "@female": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "height": "ቁመት",
+  "@height": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "weight": "ክብደት",
+  "@weight": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeLanguage": "ቋንቋ ምቕያር",
+  "@changeLanguage": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "english": "ኢንግሊሽ",
+  "@english": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "amharic": "ኣምሓርኛ",
+  "@amharic": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+   "tgrigna": "ትግርኛ",
+  "@tgrigna": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "afanOromo": "Afan oromoo",
+  "@afanOromo": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "bmiInfoFirst": "ቦዲ ማስ ኢንዴክስ ወይ BMI ንቁመትካ ኣብ ጥዑይ ክብደት ምህላውካ ንምፍላጥ ይጥቀመሉ።",
+  "@bmiInfoFirst": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "bmiInfoSecond": "\n* እዚ ካልኩሌተር ንነፍሰጾራት ወይ ንህጻናት ክውዕል የብሉን።",
+  "@bmiInfoSecond": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourBmi": "BMI ናትካ",
+  "@yourBmi": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "theBmiChart": "እቲ ናይ BMI ቻርት",
+  "@theBmiChart": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "close": "ዕፁው",
+  "@close": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "bmiInterpretationOverweight": "ካብ ንቡር ንላዕሊ ክብደት ኣካላትካ ኣለካ። ዝያዳ ኣካላዊ ምንቅስቓስ ክትገብር ፈትን።",
+  "@bmiInterpretationOverweight": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "bmiInterpretationNormal": "ንቡር ክብደት ኣካላትካ ኣለካ። ብሉጽ ስራሕ!",
+  "@bmiInterpretationNormal": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "bmiInterpretationUnderweight": "ካብ ንቡር ንታሕቲ ክብደት ኣካላትካ ኣለካ። ቁሩብ ተወሳኺ ክትበልዕ ትኽእል ኢኻ።",
+  "@bmiInterpretationUnderweight": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "recommendationDiet": "ለበዋ ኣመጋግባታት",
+  "@close": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "recommendationExe": "ናይ ለበዋ ልምምድ",
+  "@close": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "chest": "አፍ-ልቢ",
+  "@close": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "abs": "ኤቢስ",
+  "@close": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "biceps": "ባይሰፕስ",
+  "@close": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "triceps": "ትራይሰፕስ",
+  "@close": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "salmon": "ዓይነት ዓሳ",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "kale": "ካሌ",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "quinoa": "ኪኖኣ",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "burger": "በርገር",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "salad": "ሰላጣ",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "chicken": "ጡብ ደርሆ",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sweet": "ሽኮር ድንሽ",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "fish": "Fish",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "vegtable": "Vegetable",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "grain": "Grain",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "meet": "Meet",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  }
+}

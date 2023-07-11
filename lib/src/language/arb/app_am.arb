@@ -1,0 +1,241 @@
+{
+  "@@last_modified": "2020-07-28T11:17:31.076838",
+  "title": "BMI ካልኩሌተር",
+  "@title": {
+    "description": "Title for the app",
+    "type": "text",
+    "placeholders": {}
+  },
+  "health": "የጤና ኪት",
+  "@title": {
+    "description": "Title for the app",
+    "type": "text",
+    "placeholders": {}
+  },
+  "gender": "ጾታ",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "male": "ወንድ",
+  "@male": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "female": "ሴት",
+  "@female": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "height": "ቁመት",
+  "@height": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "weight": "ክብደት",
+  "@weight": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeLanguage": "ቋንቋ መቀየር",
+  "@changeLanguage": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "english": "እንግሊዝኛ",
+  "@english": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "tgrigna": "ትግርኛ",
+  "@tgrigna": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "amharic": "አማርኛ",
+  "@amharic": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "afanOromo": "Afan oromoo",
+  "@afanOromo": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "bmiInfoFirst": "የሰውነት ክብደት መረጃ ጠቋሚ ወይም BMI በቁመትዎ ጤናማ የክብደት ክልል ውስጥ መሆንዎን ለመወሰን ይጠቅማል።",
+  "@bmiInfoFirst": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "bmiInfoSecond": "\n* ይህ ካልኩሌተር ለነፍሰ ጡር ሴቶች ወይም ልጆች ጥቅም ላይ መዋል የለበትም።",
+  "@bmiInfoSecond": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourBmi": "የእርስዎ BMI",
+  "@yourBmi": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "theBmiChart": "BMI ገበታ",
+  "@theBmiChart": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "close": "አጥፋ",
+  "@close": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "bmiInterpretationOverweight": "ክብደትዎ ከተለመደው የሰውነት ክብደት ከፍ ያለ ነው. ተጨማሪ የአካል ብቃት እንቅስቃሴ ለማድረግ ይሞክሩ።",
+  "@bmiInterpretationOverweight": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "bmiInterpretationNormal": "መደበኛ የሰውነት ክብደት አለህ። ብራቮ!",
+  "@bmiInterpretationNormal": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "bmiInterpretationUnderweight": "ክብደትዎ ከተለመደው የሰውነት ክብደት ያነሰ ነው. ትንሽ ተጨማሪ መብላት ይችላሉ.",
+  "@bmiInterpretationUnderweight": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+
+
+  
+  "recommendationDiet": "የምክር ምግቦች",
+  "@close": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "recommendationExe": "ምክሮች ስፖርት መልመጃዎች",
+  "@close": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+
+
+  "chest": "ደረት",
+  "@close": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "abs": "ኤቢኤስ",
+  "@close": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  
+  "biceps": "ቢሴፕስ",
+  "@close": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "triceps": "ትራይሰፕስ",
+  "@close": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+
+
+
+
+  "salmon": "ሳልሞን",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "kale": "ካሌ",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "quinoa": "Quinoa",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "burger": "በርገር",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "salad": "ሰላጣ",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "chicken": "የዶሮ ደረት ልስልስ ስጋ",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sweet": "ስኳር ድንች",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+
+
+  
+  "fish": "Fish",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "vegtable": "Vegetable",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "grain": "Grain",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "meet": "Meet",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  }
+
+
+
+}

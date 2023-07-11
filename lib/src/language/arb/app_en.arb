@@ -1,0 +1,225 @@
+{
+  "@@last_modified": "2020-07-28T11:17:31.076838",
+  "title": "BMI Calculator",
+  "@title": {
+    "description": "Title for the app",
+    "type": "text",
+    "placeholders": {}
+  },
+  "health": "Health Kit",
+  "@title": {
+    "description": "Title for the app",
+    "type": "text",
+    "placeholders": {}
+  },
+  "gender": "GENDER",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "male": "Male",
+  "@male": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "female": "Female",
+  "@female": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "height": "HEIGHT",
+  "@height": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "weight": "WEIGHT",
+  "@weight": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeLanguage": "Change Language",
+  "@changeLanguage": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "english": "English",
+  "@english": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "tgrigna": "ትግርኛ",
+  "@tgrigna": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "amharic": "አማርኛ",
+  "@anharic": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "afanOromo": "Afan oromoo",
+  "@afanOromo": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "bmiInfoFirst": "Body mass index, or BMI, is used to determine whether you are in a healthy weight range for your height.",
+  "@bmiInfoFirst": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "bmiInfoSecond": "\n* This calculator shouldn't be used for pregnant women or children.",
+  "@bmiInfoSecond": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourBmi": "YOUR BMI",
+  "@yourBmi": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "theBmiChart": "The BMI Chart",
+  "@theBmiChart": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "close": "Close",
+  "@close": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "bmiInterpretationOverweight": "You have a higher than normal body weight. Try to exercise more.",
+  "@bmiInterpretationOverweight": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "bmiInterpretationNormal": "You have a normal body weight. Great job!",
+  "@bmiInterpretationNormal": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "bmiInterpretationUnderweight": "You have a lower than normal body weight. You can eat a bit more.",
+  "@bmiInterpretationUnderweight": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "recommendationDiet": "Recommendation Diets",
+  "@close": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "recommendationExe": "Recommendation Exercises",
+  "@close": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "chest": "chest",
+  "@close": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "abs": "ABs",
+  "@close": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "biceps": "Biceps",
+  "@close": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "triceps": "Triceps",
+  "@close": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "salmon": "Salmon",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "kale": "Kale",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "quinoa": "Quinoa",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "burger": "Burger",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "salad": "Salad",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "chicken": "Checken Breast",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sweet": "Sweet Potato",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "fish": "Fish",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "vegtable": "Vegetable",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "grain": "Grain",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "meet": "Meet",
+  "@gender": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  }
+}
